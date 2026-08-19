@@ -831,6 +831,11 @@ main {
     width: 100%;
   }
 
+  .sec-six {
+    width: 100%;
+    padding: 10px 20px;
+  }
+
   .footer_content {
     grid-template-columns: 1fr;
   }
